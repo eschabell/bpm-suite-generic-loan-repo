@@ -23,8 +23,8 @@ Note: The application assets are defined into the ro.bull.bpm.examples.loan pack
 Run the application
 -------------------
 
-1. From the main meniu select `Authoring -> Project Authoring`
-2. In `Project Explorer` select the `Organizational Unit` and than the `Repository` you created
+1. From the main menu select `Authoring -> Project Authoring`
+2. In `Project Explorer` select the `Organizational Unit` and then the `Repository` you created
 3. From the secondary menu select `Tools -> Project Editor`
 4. Push the `Build & Deploy` button (top-right corner) in order to build the application
 5. From the main menu select `Process Management -> Process Definitions`
